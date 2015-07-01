@@ -17,3 +17,5 @@ I want to run caffe trained model in my c++ application easily.
 5. Make a CMaklist for easy compiling
 
 6. Wrap and make examples for Android, iOS, JNI
+
+7. Activate another project for "Embedded C YoCaffeRun"
